@@ -17,33 +17,33 @@
     "temperament": "Outgoing, Friendly, Alert",
     "url": "https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"
   },
-  {
-    "id": 3,
-    "name": "Pug",
-    "life_span": "12 - 15 years",
-    "breed_group": "Toy",
-    "bred_for": "Companion",
-    "temperament": "Docile, Clever, Charming",
-    "url": "https://images.dog.ceo/breeds/pug/n02110958_10147.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Labrador Retriever",
-    "life_span": "10 - 12 years",
-    "breed_group": "Sporting",
-    "bred_for": "Water retrieving",
-    "temperament": "Gentle, Intelligent, Family-friendly",
-    "url": "https://images.dog.ceo/breeds/labrador/n02099712_5644.jpg"
-  },
-  {
-    "id": 5,
-    "name": "German Shepherd",
-    "life_span": "9 - 13 years",
-    "breed_group": "Herding",
-    "bred_for": "Herding, Guarding",
-    "temperament": "Confident, Courageous, Smart",
-    "url": "https://images.dog.ceo/breeds/germanshepherd/n02106662_7436.jpg"
-  },
+ {
+  "id": 3,
+  "name": "Pug",
+  "life_span": "12 - 15 years",
+  "breed_group": "Toy",
+  "bred_for": "Companion",
+  "temperament": "Docile, Clever, Charming",
+  "url": "https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"
+},
+{
+  "id": 4,
+  "name": "Labrador Retriever",
+  "life_span": "10 - 12 years",
+  "breed_group": "Sporting",
+  "bred_for": "Water retrieving",
+  "temperament": "Gentle, Intelligent, Family-friendly",
+  "url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_3004.jpg"
+},
+{
+  "id": 5,
+  "name": "German Shepherd",
+  "life_span": "9 - 13 years",
+  "breed_group": "Herding",
+  "bred_for": "Herding, Guarding",
+  "temperament": "Confident, Courageous, Smart",
+  "url": "https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg"
+},
   {
     "id": 6,
     "name": "Beagle",
